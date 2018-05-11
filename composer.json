@@ -1,9 +1,9 @@
 {
-    "name": "jinohoang/phpframework",
+    "name": "thuanpt/phpframework",
     "authors": [
         {
-            "name": "bienhoang",
-            "email": "bien@deha-soft.com"
+            "name": "thuanpt",
+            "email": "thuanpt@deha-soft.com"
         }
     ],
     "require": {
